@@ -1,7 +1,7 @@
 [
   {
     "version": "1.0.6",
-    "date": "2024-03-11",
+    "date": "2024-03-18",
     "description": "Added new features",
     "changes_list": [
       "+ Автоматическая выдача роли в ТС при регистрации",
