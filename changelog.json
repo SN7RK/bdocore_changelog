@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.0.8",
+    "date": "2024-04-26",
+    "description": "Fixes and improvements",
+    "changes_list": [
+      "+ Добавлено поле для лошадей (multiselect)",
+      "+ Добавлено отображение  ID, Лошади, Обновлено в админ таблице",
+      "+ Добавлено кнопка удаления teamspeak uid из базы (если пользователь потерял доступ к TS3)"
+    ]
+  },
+  {
     "version": "1.0.7",
     "date": "2024-04-03",
     "description": "Added new features",
