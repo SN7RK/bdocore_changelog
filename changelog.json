@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.0.8",
+    "version": "1.1.1",
     "date": "2024-04-26",
     "description": "Fixes and improvements",
     "changes_list": [
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "version": "1.0.7",
+    "version": "1.1.0",
     "date": "2024-04-03",
     "description": "Added new features",
     "changes_list": [
